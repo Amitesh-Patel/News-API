@@ -13,3 +13,4 @@ Just enter the index of category you want suppose you want news on category Tech
 `/topic_news/{number}` -- to get news by category
 
 Ex - `https://amiteshpatel.pythonanywhere.com/topic_news/4`
+The content of JSON are summary , article , sentiment etc
