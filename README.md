@@ -2,7 +2,7 @@
 
  url - `AmiteshPatel.pythonanywhere.com` -- It will display Hello World
  
-Its has endpoint  `/predict_api/{text query}`  - enter your search in that text query
+Its has endpoint  `/search/{text query}`  - enter your search in that text query
 
 Ex -  `https://amiteshpatel.pythonanywhere.com/predict_api/IPL`
 
