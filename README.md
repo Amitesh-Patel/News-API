@@ -1,6 +1,8 @@
 # News-API
 
- url - `AmiteshPatel.pythonanywhere.com` -- It will display Hello World
+Web App - `https://newsify-git-main-ad1tyakumar.vercel.app/`
+
+API url - `AmiteshPatel.pythonanywhere.com` -- It will display Hello World
  
 Its has endpoint  `/search/{text query}`  - enter your search in that text query
 
