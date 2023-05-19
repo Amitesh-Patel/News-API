@@ -46,3 +46,5 @@ Json has following fields .
 `
 
 Most important fields are sentiments , Text classification because on both of these i used Bert model to classify sentneces . 
+
+TechStacks - Flask , Newspaper Library , Hugging Face , NLP , Transformers , Pythonanywhere
